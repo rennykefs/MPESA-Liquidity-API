@@ -1,0 +1,17 @@
+# Python environment
+venv/
+.conda/
+__pycache__/
+*.pyc
+
+# Data 
+data/
+*.csv
+*.xlsx
+
+
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
